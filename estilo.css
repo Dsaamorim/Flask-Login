@@ -1,0 +1,76 @@
+h1{font-family: serif; font-size: 20px;}
+h1{background: rgba(76, 175, 80, 0.1); margin-top: 0; padding: 20px 20px 20px 40px;}
+h1{margin: 10%;}
+h1{position: absolute; top: -120px;}
+
+.texto1 {
+color: #c9c4f5;
+font-weight:bolder;
+text-decoration:none !important
+}
+.texto1:hover {
+text-shadow: 0 0 5px #c9c4f5;
+}
+
+.texto2 {
+color: #000400;
+font-weight:bolder;
+text-decoration:none !important
+}
+.texto2:hover {
+text-shadow: 0 0 20px #000400;
+}
+
+.assessoria{
+width: 215px;
+height: 100px;
+transition-duration: 2s;
+}
+.assessoria:hover {
+  width: 300px;
+}
+
+h2{line-height: 1.5;}
+h2{font-family: serif; font-size: 20px;}
+h2{background: rgba(76, 175, 80, 0.1); margin-top: 0; padding: 20px 20px 20px 40px;}
+h2{margin: 40%;}
+h2{position: absolute; top: -400px;}
+h2{position: absolute; left: -100px;}
+
+.assessoria{
+position: absolute;
+left: 100px;
+bottom: 150px;
+}
+
+body,html{
+  height: 100%;
+  overflow: hidden;
+  background-image: url(https://i.imgur.com/X97iVv1.jpg);
+  background-size: cover;
+}
+
+.l-form{
+  background-color:rgba(39, 41, 45, 0.5);
+  border-radius:12px;
+  padding: 12px;
+}
+
+.i-form{
+  border-radius:12px;
+  padding: 12px;
+}
+
+body {
+  background-color: #101010;
+  color: #ffffff;
+}
+h1 {
+  color: #ffffff;
+}
+nav a {
+  color: #ffffff;
+}
+footer {
+  color: #ffffff;
+}
